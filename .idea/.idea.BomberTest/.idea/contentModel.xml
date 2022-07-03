@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\TestTask\BomberTest" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Enemy" t="Include">
+            <e p="EnemyAI.cs" t="Include" />
+            <e p="EnemyDamageToPlayerControl.cs" t="Include" />
+            <e p="SpawnEnemy.cs" t="Include" />
+          </e>
+          <e p="Game Over" t="Include">
+            <e p="gameOverScript.cs" t="Include" />
+          </e>
+          <e p="HeroCommands" t="Include">
+            <e p="Command.cs" t="Include" />
+            <e p="InputHandler.cs" t="Include" />
+            <e p="ThrewBombCommand.cs" t="Include" />
+          </e>
+          <e p="Weapons" t="Include">
+            <e p="Bomb" t="Include">
+              <e p="ExplosionBombController.cs" t="Include" />
+              <e p="FireControl.cs" t="Include" />
+              <e p="TestRayCast.cs" t="Include" />
+              <e p="weapon.cs" t="Include" />
+            </e>
+          </e>
+          <e p="WinLVL" t="Include">
+            <e p="winLvlScript.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="Forceling_WorldGrid.shader" t="Include" />
+        </e>
+      </e>
+      <e p="BomberTest.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="Bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+    <e p="C:\Users\Professional\.Rider2018.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Professional\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Professional\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_BomberTest.-1138378224.00" t="ExcludeRecursive" />
+  </component>
+</project>
